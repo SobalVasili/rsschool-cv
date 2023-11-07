@@ -1,1 +1,1 @@
-# rsschool-cv
+https://SobalVasili.github.io/rsschool-cv/
