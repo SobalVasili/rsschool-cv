@@ -3,7 +3,8 @@
 ## Contact information:
 Phone: +375447424954\
 Discord: SobalVasili#0104\
-GitHub: https://github.com/SobalVasili
+GitHub: https://github.com/SobalVasili\
+Telegram: n
 #
 ## About myself:
 Work and study. Live and born in Minsk, Belarus.29 years old.
