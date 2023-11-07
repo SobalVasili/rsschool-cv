@@ -6,7 +6,7 @@ Discord: SobalVasili#0104\
 GitHub: https://github.com/SobalVasili
 #
 ## About myself:
-Work and study. Live in Minsk, Belarus.29 years old.
+Work and study. Live and born in Minsk, Belarus.29 years old.
 ## My skills:
 * *HTML*,
 * *CSS*,
