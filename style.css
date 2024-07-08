@@ -11,6 +11,8 @@
  html {
     line-height: 1.15; /* 1 */
     -webkit-text-size-adjust: 100%; /* 2 */
+    scroll-behavior: smooth;
+
   }
   
   /* Sections
@@ -39,7 +41,6 @@
   
   h1 {
     font-size: 2em;
-    margin: 0.67em 0;
   }
   
   /* Grouping content
@@ -354,22 +355,71 @@
     display: none;
   }
 
+body {
+    font-family: "Baskervville SC", Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal
+}
 
+h2 {
+    margin: 0 0 0 0;
+}
 .wrapper {
     max-width: 1280px;
     margin: 0 auto;
-    background-color: rgba(168, 168, 16, 0.815);
+    background-color: rgb(12, 12, 212);
 }
 .header {
-    background-color: beige;
-    max-width: 1240px;
+    background-color: rgb(226, 226, 226);
+    max-width: 1260px;
     margin: 0 auto;
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 
 .my-foto {
-    height: 10%;
-    width: 10%;
-    border-radius: 10%;
+    margin: 10px 5px 10px 5px;
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 5%;
 }
+
+.main {
+    max-width: 1260px;
+    margin: 10px auto 10px auto;
+    background-color: rgb(226, 226, 226);
+}
+
+.main-info {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    border-bottom: dashed 1px black;
+}
+a:hover {
+        color: rgb(0, 218, 65);
+        transition: 0.5s;
+        font-weight: 800;
+    }
+
+.skills-item {
+        color: rgb(17, 0, 255);
+        font-size: 24px;
+        font-weight: 700;
+    }
+.code-info {
+    text-align: justify;
+    font-weight: 900;
+}
+.footer {
+    max-width: 1260px;
+    margin: 0 auto;
+    background-color: rgb(190, 190, 190);
+}
+.thanks {
+    color:rgb(0, 2, 139);
+    font-size: 24px;
+}
+
