@@ -29,6 +29,6 @@ Task: Return Negative
 * English:  A2
 * Belorussian Native
 #
-#### Thank you for your attention.
+#### Thank you for attention.
 
 
