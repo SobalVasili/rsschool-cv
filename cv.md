@@ -30,5 +30,3 @@ Task: Return Negative
 * Belorussian Native
 #
 #### Thank you for attention.
-
-
